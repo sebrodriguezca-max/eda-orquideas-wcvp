@@ -1,0 +1,14 @@
+# Datos pesados / comprimidos (no subir a GitHub)
+Orquideas.zip
+*.csv
+*.xlsx
+
+# Archivos temporales o salidas de consola
+salida_completa_eda.txt
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Documento de entrega del parcial (no subir al repositorio)
+parcial_1_fundamentos_Sebs.docx
+~$parcial_1_fundamentos_Sebs.docx
